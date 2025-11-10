@@ -1,11 +1,12 @@
-# ...Hola, soy Emiliano Aguilar 👨🏻‍💻
-<img src="https://github.com/user-attachments/assets/63fd44ab-4dbe-49c7-8b25-0a7fa527e6f0" alt="banner que dice Emiliano Aguilar - Estudiante de Ingeniería">
+# Hola, soy Emi! 👨🏻‍💻
+<img src="URL_DE_TU_NUEVA_IMAGEN" alt="banner que dice Emiliano Aguilar - Estudiante de Ingeniería en Tecnologías de Cómputo y Telecomunicaciones">
 <h3 align="left">Sobre mí:</h3>
 
 Soy **Estudiante de Ingeniería en Tecnologías de Cómputo y Telecomunicaciones**. 
 Apasionado por el desarrollo y la exploración de nuevas tecnologías.
 
 También me apasiona la **divulgación de ciencia y tecnología**, con una **comunidad de más de 300K en redes sociales**.
+
 <h3 align="left">Actualmente:</h3>
 
 - 📚 Enfocado en el aprendizaje y la aplicación de conceptos de mi carrera.
@@ -17,7 +18,7 @@ También me apasiona la **divulgación de ciencia y tecnología**, con una **com
   
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-</p>
+    </p>
 
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
@@ -31,9 +32,8 @@ También me apasiona la **divulgación de ciencia y tecnología**, con una **com
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
     <a href="https://flowershow.app/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/flowershow/flowershow/main/public/logo-512.png" alt="Flowershow" width="40" height="40"/> </a> 
+    <a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/logo_root.svg" alt="ROOT CERN" width="40" height="40"/> </a> 
 </p>
-
-
 
 
 
