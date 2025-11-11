@@ -1,5 +1,4 @@
 # Hola, soy Emi! 👨🏻‍💻
-<img src="https://github.com/user-attachments/assets/63fd44ab-4dbe-49c7-8b25-0a7fa527e6f0" alt="banner that says Emmanuel lopez - .net developer at day, ios and js at night">
 <h3 align="left">Working on:</h3>
 <img src="URL_DE_TU_NUEVA_IMAGEN" alt="banner que dice Emiliano Aguilar - Estudiante de Ingeniería en Tecnologías de Cómputo y Telecomunicaciones">
 <h3 align="left">Sobre mí:</h3>
