@@ -1,6 +1,5 @@
 # Hi there, I'm Emiliano Aguilar 👨🏻‍💻
-<img src="Emiliano_Aguilar.png" alt="Banner that says Emiliano Aguilar - Computer and Telecommunications Engineering Student">
-
+<img src="src/Emiliano_Aguilar.png" alt="Banner that says Emiliano Aguilar - Computer and Telecommunications Engineering Student">
 <h3 align="left">About Me:</h3>
 
 I am a **Computer and Telecommunications Engineering Student**. I am passionate about development and exploring new technologies.
