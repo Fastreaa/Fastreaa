@@ -1,4 +1,4 @@
-# Hi there, I'm Emiliano Aguilar 👨🏻‍💻
+# Hi there, I'm Emiliano Aguilar 👨
 <img src="src/Emiliano_Aguilar.png" alt="Banner that says Emiliano Aguilar - Computer and Telecommunications Engineering Student">
 <h3 align="left">About Me:</h3>
 
@@ -8,11 +8,11 @@ I am also passionate about **Science and Technology Outreach**, running a commun
 
 <h3 align="left">Currently:</h3>
 
-- 📚 Focused on learning and applying core concepts from my degree.
-- 💡 Exploring personal projects in Java and Python.
-- 🚀 Looking for opportunities to contribute and grow in the tech world.
+- Focused on learning and applying core concepts from my degree.
+- Exploring personal projects in Java and Python.
+- Looking for opportunities to contribute and grow in the tech world.
     
-- 🔥 **I am interested in collaborating on Open Source and non-profit projects.**
+- **I am interested in collaborating on Open Source and non-profit projects.**
   
   
 <h3 align="left">Connect with me:</h3>
