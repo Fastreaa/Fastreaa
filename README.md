@@ -74,13 +74,7 @@
   <img src="https://streak-stats.demolab.com?user=Fastreaa&theme=tokyonight&hide_border=true" />
 </p>
 
-##  Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fastreaa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 ##  Connect with me
 
