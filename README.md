@@ -1,40 +1,98 @@
-# Hi there, I'm Emiliano Aguilar
-<img src="src/Emiliano_Aguilar.png" alt="Banner that says Emiliano Aguilar - Computer and Telecommunications Engineering Student">
-<h3 align="left">About Me:</h3>
+# Hi there, I'm Emiliano Aguilar 👋
 
-I am a **Computer and Telecommunications Engineering Student**. I am passionate about development and exploring new technologies.
+<img src="src/Emiliano_Aguilar.png" alt="Banner Emiliano Aguilar" width="100%"/>
 
-I am also passionate about **Science and Technology Outreach**, running a community of **over 300K on social media**.
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+%26+Telecom+Engineering+Student;Science+%26+Tech+Communicator+%7C+300K%2B;Open+Source+%26+Non-profit+Collaborator;Physics+%7C+Research+%7C+Web+Dev" alt="Typing SVG" />
+  </a>
+</p>
 
-<h3 align="left">Currently:</h3>
+---
 
-- Focused on learning and applying core concepts from my degree.
-- Exploring personal projects in Java and Python.
-- Looking for opportunities to contribute and grow in the tech world.
-    
-- **I am interested in collaborating on Open Source and non-profit projects.**
-  
-  
-<h3 align="left">Connect with me:</h3>
+## 🧑‍💻 About Me
+
+- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales y Telecomunicaciones** @ Iberoamericana CDMX
+- 🔭 Experiencia en investigación con **ROOT/CERN** — análisis de masa invariante de muones
+- 📡 Comunidad de divulgación científica con **+300K seguidores**
+- 🚀 Fundador de **[LOVELACE](https://github.com/Fastreaa)** — agencia digital
+- 🤝 Interesado en colaborar en proyectos **Open Source y sin fines de lucro**
+
+---
+
+## 🔥 Currently
+
+- 🧠 Aplicando conceptos del área de redes, sistemas embebidos y desarrollo web
+- 🤖 Explorando proyectos con **Raspberry Pi Pico W**, redes neuronales y APIs de IA
+- 🌐 Construyendo productos digitales con React, Tailwind y arquitecturas modernas
+
+---
+
+## 🛠️ Languages & Tools
+
+### 💬 Languages
 <p align="left">
-    <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/emilianoagl?igsh=MTBuM2NqNDNuZHZiaA%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
-        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40" />
-    </a>
-    </p>
+  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,html,css" />
+</p>
 
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a> 
-    <a href="https://root.cern/" target="_blank" rel="noreferrer"> <img src="https://root.cern/logo_root.svg" alt="ROOT CERN" width="40" height="40"/> </a> 
+### ⚙️ Frameworks & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,tailwind,vercel,gcp,docker,linux" />
+</p>
+
+<p align="left">
+  <a href="https://root.cern/" target="_blank">
+    <img src="https://root.cern/logo_root.svg" alt="ROOT/CERN" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://jira.atlassian.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.shopify.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="Shopify" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://www.wireshark.org/assets/icons/wireshark-logo.svg" alt="Wireshark" height="40"/>
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fastreaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastreaa&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Fastreaa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect with me
+
+<p align="left">
+  <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/emilianoagl?igsh=MTBuM2NqNDNuZHZiaA%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Fastreaa&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
