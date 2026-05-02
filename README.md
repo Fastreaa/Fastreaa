@@ -54,9 +54,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/shopify/shopify-original.svg" alt="Shopify" height="40"/>
-  </a>
   &nbsp;
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://www.wireshark.org/assets/icons/wireshark-logo.svg" alt="Wireshark" height="40"/>
