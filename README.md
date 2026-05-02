@@ -1,4 +1,4 @@
-# Hi there, I'm Emiliano Aguilar 👋
+# Hi there, I'm Emiliano Aguilar 
 
 <img src="src/Emiliano_Aguilar.png" alt="Banner Emiliano Aguilar" width="100%"/>
 
@@ -10,37 +10,37 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 Estudiante de **Ingeniería en Sistemas Computacionales y Telecomunicaciones** @ Iberoamericana CDMX
-- 🔭 Experiencia en investigación con **ROOT/CERN** — análisis de masa invariante de muones
-- 📡 Comunidad de divulgación científica con **+300K seguidores**
-- 🚀 Fundador de **[LOVELACE](https://github.com/Fastreaa)** — agencia digital
-- 🤝 Interesado en colaborar en proyectos **Open Source y sin fines de lucro**
-
----
-
-## 🔥 Currently
-
-- 🧠 Aplicando conceptos del área de redes, sistemas embebidos y desarrollo web
-- 🤖 Explorando proyectos con **Raspberry Pi Pico W**, redes neuronales y APIs de IA
-- 🌐 Construyendo productos digitales con React, Tailwind y arquitecturas modernas
+-  **Computer and Telecommunications Engineering Student** @ Iberoamericana CDMX
+-  Research experience with **ROOT/CERN** — muon invariant mass analysis
+-  Science communication community with **300K+ followers**
+-  Founder of **LOVELACE** — digital agency
+-  Interested in collaborating on **Open Source and non-profit projects**
 
 ---
 
-## 🛠️ Languages & Tools
+##  Currently
 
-### 💬 Languages
+-  Applying core concepts in networking, embedded systems, and web development
+-  Building projects with **Raspberry Pi Pico W**, neural networks, and AI APIs
+-  Crafting digital products with React, Tailwind, and modern architectures
+
+---
+
+##  Languages & Tools
+
+###  Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,html,css" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### ⚙️ Frameworks & Tools
+###  Frameworks & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,tailwind,vercel,gcp,docker,linux" />
 </p>
@@ -50,7 +50,7 @@
     <img src="https://root.cern/logo_root.svg" alt="ROOT/CERN" height="40"/>
   </a>
   &nbsp;
-  <a href="https://jira.atlassian.com/" target="_blank">
+  <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40"/>
   </a>
   &nbsp;
@@ -65,7 +65,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fastreaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
@@ -77,9 +77,15 @@
   <img src="https://streak-stats.demolab.com?user=Fastreaa&theme=tokyonight&hide_border=true" />
 </p>
 
+##  Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fastreaa&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
+
 ---
 
-## 🌐 Connect with me
+##  Connect with me
 
 <p align="left">
   <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank">
@@ -89,10 +95,4 @@
   <a href="https://www.instagram.com/emilianoagl?igsh=MTBuM2NqNDNuZHZiaA%3D%3D&utm_source=qr" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fastreaa&color=58A6FF&style=flat-square&label=Profile+Views" />
 </p>
