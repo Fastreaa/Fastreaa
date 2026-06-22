@@ -109,16 +109,15 @@
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_DE_GITHUB&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF" alt="GitHub Streak" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fastreaa&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" width="60%" />
-</div>
 ##  Connect with me
 
 <p align="center">
