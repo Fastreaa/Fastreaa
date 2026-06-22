@@ -16,7 +16,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
-## 🚀 About Me
 
 -  **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
 -  **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
@@ -107,7 +106,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=tokyonight&hide_border=true" width="60%"/>
@@ -131,4 +130,4 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
 
-<p align="center"><i>“Code, curiosity, and a bit of scientific chaos.” ✨</i></p>
+<p align="center"><i>“Code, curiosity, and a bit of scientific chaos.” </i></p>
