@@ -16,7 +16,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
-
+## 🪐 About Me
 -  **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
 -  **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
 -  Research experience with **ROOT/CERN** — muon invariant mass analysis
