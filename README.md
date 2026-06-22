@@ -18,24 +18,24 @@
 
 ## 🚀 About Me
 
-- 🎓 **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
-- 💼 **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
-- 🔬 Research experience with **ROOT/CERN** — muon invariant mass analysis
-- 📡 Founder of **Desconocidx Científicx** — free, open-access science community with **300K+ followers**
-- 🏢 Founder of **LOVELACE** — digital agency (web dev, Shopify, custom systems & strategy)
-- ☁️ Comfortable working across **SQL Server, REST APIs, AWS, Azure, Power BI & data pipelines**
-- 🤝 Always open to collaborating on **Open Source & non-profit projects**
+-  **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
+-  **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
+-  Research experience with **ROOT/CERN** — muon invariant mass analysis
+-  Founder of **Desconocidx Científicx** — free, open-access science community with **300K+ followers**
+-  Founder of **LOVELACE** — digital agency (web dev, Shopify, custom systems & strategy)
+-  Comfortable working across **SQL Server, REST APIs, AWS, Azure, Power BI & data pipelines**
+-  Always open to collaborating on **Open Source & non-profit projects**
 
-## 🛠️ Currently
+##  Currently
 
-- 🧾 Building a digitalized post-sale delivery checklist system for JAC dealerships (HTML mockups + WhatsApp/Botmaker alerts)
-- 🔄 Migrating ETL automations from local Outlook scripts to **Azure VM + Microsoft Graph API**
-- 📊 Designing **Power BI** dashboards with DAX measures, treemaps & geographic visuals for consumer complaint data
-- 🐍 Tinkering with **Raspberry Pi Pico W**, neural networks, and AI-powered APIs
+-  Building a digitalized post-sale delivery checklist system for JAC dealerships (HTML mockups + WhatsApp/Botmaker alerts)
+-  Migrating ETL automations from local Outlook scripts to **Azure VM + Microsoft Graph API**
+-  Designing **Power BI** dashboards with DAX measures, treemaps & geographic visuals for consumer complaint data
+-  Tinkering with **Raspberry Pi Pico W**, neural networks, and AI-powered APIs
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=70&section=footer"/>
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <details open>
 <summary>💻 Languages</summary>
@@ -54,7 +54,7 @@
 </details>
 
 <details open>
-<summary>🗄️ Databases, APIs & Data Engineering</summary>
+<summary> Databases, APIs & Data Engineering</summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,fastapi,postman" />
@@ -64,7 +64,7 @@
 </details>
 
 <details open>
-<summary>📊 Data Analysis & BI</summary>
+<summary> Data Analysis & BI</summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -78,7 +78,7 @@
 </details>
 
 <details open>
-<summary>🌐 Frameworks & Web</summary>
+<summary> Frameworks & Web</summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,vercel" />
@@ -107,7 +107,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fastreaa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
@@ -126,7 +126,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
 </p>
 
-## 🤝 Connect with me
+##  Connect with me
 
 <p align="center">
   <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank">
