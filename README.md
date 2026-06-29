@@ -1,133 +1,192 @@
+<p align="center">
+  <!-- Reemplaza con el enlace a tu propio banner si tienes uno -->
+  <img src="https://via.placeholder.com/800x200.png?text=Emiliano+Aguilar" height="200"/>
+</p>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Emiliano Aguilar</h1>
+<h3 align="center">Computer & Telecommunications Engineering Student | Tech Communicator | Full-Stack Dev</h3>
+
+<p align="center">
+<!-- Agrega tus redes, por ejemplo tu Instagram o el de tu proyecto de divulgación -->
+<a href="https://www.instagram.com/[tu-instagram]/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+</p>
+
+---
+
 <div align="center">
-
-<img src="src/Emiliano_Aguilar.png" alt="Banner Emiliano Aguilar" width="100%"/>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+%26+Telecom+Engineering+Student;BI+%26+Data+Engineering+%7C+SQL+Server+%7C+ETL;Cloud%3A+AWS+%7C+Azure+%7C+REST+APIs;Science+%26+Tech+Communicator+%7C+300K%2B;Open+Source+%26+Non-profit+Collaborator" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Fastreaa&label=Profile%20Views&color=58A6FF&style=flat-square" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/Fastreaa?label=Followers&style=flat-square&color=58A6FF" alt="Followers"/>
-<img src="https://img.shields.io/badge/Status-Building%20%26%20Learning-58A6FF?style=flat-square" alt="Status"/>
-
+  <h1>👾 Welcome to my GitHub Profile 👾</h1>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
+<table>
+<tr>
+<td>
 
-## 🪐 About Me
--  **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
--  **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
--  Research experience with **ROOT/CERN** — muon invariant mass analysis
--  Founder of **Desconocidx Científicx** — free, open-access science community with **300K+ followers**
--  Founder of **LOVELACE** — digital agency (web dev, Shopify, custom systems & strategy)
--  Comfortable working across **SQL Server, REST APIs, AWS, Azure, Power BI & data pipelines**
--  Always open to collaborating on **Open Source & non-profit projects**
+Hello! I'm **Emiliano Aguilar**, a **Computer and Telecommunications Engineering** student at **Universidad Iberoamericana** in Mexico City. I'm a passionate developer, network engineer, and the founder of the digital agency **Lovelace**, specializing in editorial-style web design and technical consulting.
 
-##  Currently
+Beyond engineering, I am a science and technology communicator leading **Desconocidx Cientificx**, a digital community of over 300,000 followers. I love bridging the gap between complex technical concepts and accessible education, whether I'm building full-stack applications, troubleshooting physical logic circuits, or analyzing physics data. 🚀
 
--  Building a digitalized post-sale delivery checklist system for JAC dealerships (HTML mockups + WhatsApp/Botmaker alerts)
--  Migrating ETL automations from local Outlook scripts to **Azure VM + Microsoft Graph API**
--  Designing **Power BI** dashboards with DAX measures, treemaps & geographic visuals for consumer complaint data
--  Tinkering with **Raspberry Pi Pico W**, neural networks, and AI-powered APIs
+🔭 **Currently working on:**
+- Editorial-style web design and e-commerce platforms at Lovelace
+- Content creation and educational branding for Desconocidx Cientificx
+- Advanced network topologies and routing protocols
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=70&section=footer"/>
+</td>
+<td>
 
-##  Tech Stack
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" height="260px" width="330px" />
 
-<details open>
-<summary>💻 Languages</summary>
-<br>
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 About Me
+
+- 🎓 **Engineering Student** at ***Universidad Iberoamericana*** (Computer & Telecommunications)
+- 🏢 **Founder of Lovelace**, a digital agency focused on web design, e-commerce, and consulting
+- 🚀 **Creator of Desconocidx Cientificx**, communicating science to 300K+ followers (Fun fact: the mascot's head is completely biological, not a helmet! 🧠)
+- 🌱 Proficient in **React**, **Next.js**, **Tailwind CSS**, and **Python**
+- 🔌 Passionate about hardware: bridging the gap between digital simulation (Logisim) and physical assembly (like troubleshooting AT28C256 EPROM pin layouts)
+- 🔬 Active in physics research, specifically **muon invariant mass analysis**
+- 📧 Contact me at: [tu-email@gmail.com](mailto:tu-email@gmail.com)
+
+---
+
+## Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px>
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="https://github.com/[tu-usuario-github]">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=[tu-usuario-github]&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+
+</td>
+<td align="center" width="50%">
+  <a href="https://github.com/[tu-usuario-github]">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=[tu-usuario-github]&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</td>
+
+</td>
+</tr>
+</table>
+
+---
+
+## <p align="center"> Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></p>
+
+### 🌐 Frontend & Full-Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cs,java,python,js,html,css" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,js,html,css" />
+  </a>
+  <img src="https://img.shields.io/badge/MDX-1B1F24?style=for-the-badge&logo=markdown&logoColor=white" />
 </p>
-</details>
 
-<details open>
-<summary>☁️ Cloud & DevOps</summary>
-<br>
+### 🗄️ Data Science & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,linux,git,github,vercel" />
-</p>
-</details>
-
-<details open>
-<summary> Databases, APIs & Data Engineering</summary>
-<br>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,fastapi,postman" />
-  &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="48" alt="SQL Server"/>
-</p>
-</details>
-
-<details open>
-<summary> Data Analysis & BI</summary>
-<br>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mongodb" />
+  </a>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matlab" />
-</p>
-</details>
 
-<details open>
-<summary> Frameworks & Web</summary>
-<br>
+### 📡 Networking & Hardware
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,vercel" />
-</p>
-</details>
-
-<details open>
-<summary>🔬 Research & Specialized Tools</summary>
-<br>
-<p align="center">
-  <a href="https://root.cern/" target="_blank">
-    <img src="https://root.cern/logo_root.svg" alt="ROOT/CERN" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.atlassian.com/software/jira" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="Jira" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.wireshark.org/assets/icons/wireshark-logo.svg" alt="Wireshark" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=raspberrypi" />
-</p>
-</details>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
-
-##  GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Fastreaa&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
-
-##  Connect with me
-
-<p align="center">
-  <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="https://www.instagram.com/emilianoagl?igsh=MTBuM2NqNDNuZHZiaA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/GNS3-57b140?style=for-the-badge&logo=gns3&logoColor=white" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer"/>
+### 🔬 Research & Specialized Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/ROOT_(CERN)-0055A5?style=for-the-badge&logo=c++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Logisim-E34F26?style=for-the-badge&logo=circuit-board&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+</p>
 
-<p align="center"><i>“Code, curiosity, and a bit of scientific chaos.” </i></p>
+---
+
+## 💼 Featured Projects
+
+### 🌌 **Muon Invariant Mass Analysis** - Physics Research
+A research-focused project utilizing data analysis techniques to calculate and analyze the invariant mass of muons.
+**Tech Stack:** CERN ROOT Framework, Python, Data Analysis
+**Impact:** Applied advanced numerical computing to real-world particle physics research.
+
+---
+
+### 🎛️ **Digital Electronics Simulators** - Hardware Engineering
+Designed and built complex logic circuits for an elevator simulator and a sequential LED traffic light controller. 
+**Tools:** Logisim, Protoboards, AT28C256 EPROMs, Multiplexers
+**Highlights:** Translated theoretical circuit diagrams and state machines into fully functioning physical assemblies.
+
+---
+
+### 🌐 **Lovelace Digital Agency** - Web Development
+Founder and lead developer for a digital agency delivering high-quality, editorial-style web experiences and e-commerce solutions.
+**Tech Stack:** React, Next.js, Tailwind CSS, MDX
+**Mission:** Providing robust technical consulting and aesthetic, highly functional web platforms for clients.
+
+---
+
+### 🚀 **Desconocidx Cientificx** - Science Communication
+A digital education initiative featuring a minimalist explorer mascot, dedicated to making science engaging and accessible.
+**Impact:** Successfully scaled a digital community to over 300,000 followers through effective science communication and branding.
+
+---
+
+### 📊 **Gamified Habit-Tracking System** - Productivity
+A highly customized, database-driven system built in Notion to track daily routines (exercise, reading, meditation) using advanced formulas and gamification mechanics.
+
+---
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💀 When physical assembly doesn't match the digital simulation
+<p align="center">
+    <img src="https://media.giphy.com/media/Ll2fajzk9DgaY/giphy.gif" width="300"/>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+### 🚀 Motivational Quote
+<blockquote>
+"Science is not only a disciple of reason but, also, one of romance and passion."  
+— <strong>Stephen Hawking</strong>
+</blockquote>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect with me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/[tu-linkedin]/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/[tu-usuario-github]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:tu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <i>⭐️ From <a href="https://github.com/[tu-usuario-github]">[tu-usuario-github]</a> with 💙</i>
+</div>
