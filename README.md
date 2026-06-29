@@ -17,24 +17,38 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
 ## 🪐 About Me
--  **Computer & Telecommunications Engineering** student @ Universidad Iberoamericana (IBERO), CDMX
--  **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
--  Research experience with **ROOT/CERN** — muon invariant mass analysis
--  Founder of **Desconocidx Científicx** — free, open-access science community with **300K+ followers**
--  Founder of **LOVELACE** — digital agency (web dev, Shopify, custom systems & strategy)
--  Comfortable working across **SQL Server, REST APIs, AWS, Azure, Power BI & data pipelines**
--  Always open to collaborating on **Open Source & non-profit projects**
 
-##  Currently
+Hello! I'm **Emiliano Aguilar**, a **Computer and Telecommunications Engineering** student at **Universidad Iberoamericana (IBERO)** in CDMX. Whether I'm building data pipelines, troubleshooting physical logic circuits, or analyzing physics data, I love bridging the gap between complex systems and real-world impact.
 
--  Building a digitalized post-sale delivery checklist system for JAC dealerships (HTML mockups + WhatsApp/Botmaker alerts)
--  Migrating ETL automations from local Outlook scripts to **Azure VM + Microsoft Graph API**
--  Designing **Power BI** dashboards with DAX measures, treemaps & geographic visuals for consumer complaint data
--  Tinkering with **Raspberry Pi Pico W**, neural networks, and AI-powered APIs
+- 🎓 **Computer & Telecommunications Engineering** student @ IBERO, CDMX
+- 📊 **BI Intern** @ Giant Motors México / JAC México — dashboards, SQL Server, ETL pipelines & process automation
+- 🔬 Research experience with **ROOT/CERN** — muon invariant mass analysis
+- 🚀 Founder of **Desconocidx Científicx** — free, open-access science community with **300K+ followers** (Fun fact: the mascot's head is completely biological! 🧠)
+- 🏢 Founder of **LOVELACE** — digital agency (web dev, Shopify, custom systems & strategy)
+- ☁️ Comfortable working across **SQL Server, REST APIs, AWS, Azure, Power BI & data pipelines**
+- 🤝 Always open to collaborating on **Open Source & non-profit projects**
+
+## ⚡ Currently
+
+- Building a digitalized post-sale delivery checklist system for JAC dealerships (HTML mockups + WhatsApp/Botmaker alerts)
+- Migrating ETL automations from local Outlook scripts to **Azure VM + Microsoft Graph API**
+- Designing **Power BI** dashboards with DAX measures, treemaps & geographic visuals for consumer complaint data
+- Tinkering with **Raspberry Pi Pico W**, neural networks, and AI-powered APIs
+- Passionate about hardware: translating digital simulation into physical assembly (like troubleshooting AT28C256 EPROM pin layouts and multiplexers)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=70&section=footer"/>
 
-##  Tech Stack
+## 💼 Featured Projects
+
+- 🚙 **JAC Motors BI & Automations:** Designing DAX-powered dashboards and migrating local ETL scripts to Azure VMs for process automation.
+- 🌌 **Muon Invariant Mass Analysis:** A physics research project utilizing the CERN ROOT Framework to calculate and analyze particle data.
+- 🎛️ **Digital Electronics Simulators:** Designing complex logic circuits (elevator simulators, sequential LEDs) using Logisim and physical EPROMs.
+- 🌐 **Lovelace Digital Agency:** Developing highly functional, editorial-style web experiences and custom e-commerce solutions.
+- 📊 **Gamified Habit-Tracking System:** A highly customized, database-driven system built in Notion to track daily routines using advanced formulas and gamification mechanics.
+
+---
+
+## 🛠️ Tech Stack
 
 <details open>
 <summary>💻 Languages</summary>
@@ -53,7 +67,7 @@
 </details>
 
 <details open>
-<summary> Databases, APIs & Data Engineering</summary>
+<summary>🗄️ Databases, APIs & Data Engineering</summary>
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,fastapi,postman" />
@@ -63,7 +77,7 @@
 </details>
 
 <details open>
-<summary> Data Analysis & BI</summary>
+<summary>📈 Data Analysis & BI</summary>
 <br>
 <p align="center">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
@@ -77,10 +91,10 @@
 </details>
 
 <details open>
-<summary> Frameworks & Web</summary>
+<summary>🌐 Frameworks & Web</summary>
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,react,nodejs,vercel" />
+  <img src="https://skillicons.dev/icons?i=tailwind,react,nextjs,nodejs,vercel" />
 </p>
 </details>
 
@@ -101,12 +115,15 @@
   </a>
   &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=raspberrypi" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Logisim-E34F26?style=for-the-badge&logo=circuit-board&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 </details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=90&section=header"/>
 
-##  GitHub Analytics
+## 📈 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=tokyonight&hide_border=true" width="60%"/>
@@ -116,8 +133,9 @@
 </p>
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+</p>
 
-##  Connect with me
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.facebook.com/share/17n9pHAmy9/?mibextid=wwXIfr" target="_blank">
