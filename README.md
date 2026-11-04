@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="src/Emiliano_Aguilar.png" alt="Emiliano Aguilar — Engineering, Data & Technology" width="100%"/>
+  <img src="src/Emiliano_Aguilar.png" alt="  — Engineering, Data & Technology" width="100%"/>
 
   <h1>Emiliano Aguilar</h1>
 
