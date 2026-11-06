@@ -14,7 +14,7 @@
 
 </div>
 
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 ## About
 
@@ -37,7 +37,7 @@ I like understanding how systems work end to end: from the data model and the ba
   </tr>
 </table>
 
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 ## Applied AI
 
@@ -45,9 +45,6 @@ Projects where I integrate language models into real workflows, not just demos.
 
 <p align="center"><img src="src/rot-ai.svg" width="100%" alt="What my AI projects do"/></p>
 
-<p align="center">
-  <img src="src/ai-pipeline.svg" width="100%" alt="Data, retrieval, LLM and action pipeline"/>
-</p>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -58,7 +55,7 @@ Projects where I integrate language models into real workflows, not just demos.
 
 **Approach:** structured outputs, input validation, prompt evaluation, and keeping sensitive data out of model calls.
 
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 ## Featured Projects
 
@@ -103,7 +100,7 @@ Projects where I integrate language models into real workflows, not just demos.
   </tr>
 </table>
 
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 ## Tech Stack
 
@@ -156,7 +153,7 @@ Projects where I integrate language models into real workflows, not just demos.
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 </p>
 
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 ## How I Build
 
@@ -168,22 +165,6 @@ Projects where I integrate language models into real workflows, not just demos.
 - **Security & privacy:** least privilege, secure configuration and care with sensitive data, especially around AI.
 - **Automation:** reproducible workflows that reduce manual effort and errors.
 
-<img src="src/divider.svg" width="100%" alt=""/>
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastreaa&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="165" alt="GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastreaa&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=transparent&hide_border=true" width="70%" alt="Contribution streak"/>
-  <br/><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fastreaa/Fastreaa/output/github-snake-dark.svg"/>
-    <img src="https://raw.githubusercontent.com/Fastreaa/Fastreaa/output/github-snake.svg" width="100%" alt="Contribution snake"/>
-  </picture>
-</div>
-
-<img src="src/divider.svg" width="100%" alt=""/>
+---
 
 <p align="center"><img src="src/rot-footer.svg" width="100%" alt="Thanks for visiting"/></p>
