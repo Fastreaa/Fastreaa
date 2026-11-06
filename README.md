@@ -4,9 +4,7 @@
 
   <br/><br/>
 
-  <p>
-    <b>Software Engineering</b> &nbsp;·&nbsp; <b>Data Engineering</b> &nbsp;·&nbsp; <b>Applied AI</b> &nbsp;·&nbsp; <b>Scientific Computing</b>
-  </p>
+  <a href="https://github.com/Fastreaa"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=620&lines=Software+%26+Data+Engineering;Building+AI-powered+tools+with+LLMs;RAG+%C2%B7+Agents+%C2%B7+Automation;Where+physics+meets+software" alt="Typing animation"/></a>
 
   <p>
     <a href="https://github.com/Fastreaa"><img src="https://img.shields.io/badge/GitHub-Fastreaa-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -16,9 +14,11 @@
 
 </div>
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## About
+
+<p align="center"><img src="src/rot-about.svg" width="100%" alt="Currently exploring"/></p>
 
 Computer and Telecommunications Engineering student focused on building reliable software, data systems, and AI-powered tools with practical and scientific applications.
 
@@ -37,11 +37,17 @@ I like understanding how systems work end to end: from the data model and the ba
   </tr>
 </table>
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## Applied AI
 
 Projects where I integrate language models into real workflows, not just demos.
+
+<p align="center"><img src="src/rot-ai.svg" width="100%" alt="What my AI projects do"/></p>
+
+<p align="center">
+  <img src="src/ai-pipeline.svg" width="100%" alt="Data, retrieval, LLM and action pipeline"/>
+</p>
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -52,9 +58,11 @@ Projects where I integrate language models into real workflows, not just demos.
 
 **Approach:** structured outputs, input validation, prompt evaluation, and keeping sensitive data out of model calls.
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## Featured Projects
+
+<p align="center"><img src="src/rot-projects.svg" width="100%" alt="Project areas"/></p>
 
 <table>
   <tr>
@@ -95,9 +103,11 @@ Projects where I integrate language models into real workflows, not just demos.
   </tr>
 </table>
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## Tech Stack
+
+<p align="center"><img src="src/rot-stack.svg" width="100%" alt="Daily tools"/></p>
 
 **Languages**
 <p>
@@ -146,9 +156,11 @@ Projects where I integrate language models into real workflows, not just demos.
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"/>
 </p>
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## How I Build
+
+<p align="center"><img src="src/rot-principles.svg" width="100%" alt="Principles"/></p>
 
 - **Maintainability:** clear code, modular design and separation of concerns.
 - **Right-sized architecture:** abstractions that match the complexity of the problem.
@@ -156,7 +168,7 @@ Projects where I integrate language models into real workflows, not just demos.
 - **Security & privacy:** least privilege, secure configuration and care with sensitive data, especially around AI.
 - **Automation:** reproducible workflows that reduce manual effort and errors.
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
 ## GitHub Activity
 
@@ -165,10 +177,13 @@ Projects where I integrate language models into real workflows, not just demos.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastreaa&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top languages"/>
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastreaa&theme=transparent&hide_border=true" width="70%" alt="Contribution streak"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fastreaa/Fastreaa/output/github-snake-dark.svg"/>
+    <img src="https://raw.githubusercontent.com/Fastreaa/Fastreaa/output/github-snake.svg" width="100%" alt="Contribution snake"/>
+  </picture>
 </div>
 
-<br/>
+<img src="src/divider.svg" width="100%" alt=""/>
 
-<div align="center">
-  <sub>Engineering · Data · AI · Science</sub>
-</div>
+<p align="center"><img src="src/rot-footer.svg" width="100%" alt="Thanks for visiting"/></p>
